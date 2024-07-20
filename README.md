@@ -132,8 +132,4 @@ If you use this code for your publications, please cite it as:
         url    = "https://github.com/ahmetozlu/color_recognition"
     }
 
-## Author
-Ahmet Özlü
 
-## License
-This system is available under the MIT license. See the LICENSE file for more info.
